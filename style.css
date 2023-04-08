@@ -1,0 +1,35 @@
+.background{
+    background-image: url(./Treadmill.jpg);
+    background-position: cover;
+}
+.header{
+    background-color:hsla(0, 32%, 55%, 0.666);
+}
+.span{
+    color: orangered;
+}
+.s{
+    text-align: center;
+    color: white;
+}
+.span2{
+    color: white;
+    font-size: 250%;
+}
+.button{
+    color: white;
+    background-color: orangered;
+    
+    border: 1px solid orangered;
+    
+    
+}
+.h{
+    color: orangered;
+    text-align: center;
+}
+.h1{
+    font-size: 400%;
+    color: orangered;
+    text-align: center;
+}
